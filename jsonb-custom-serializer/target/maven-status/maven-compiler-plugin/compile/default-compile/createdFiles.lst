@@ -1,0 +1,6 @@
+org\superbiz\rest\UserService.class
+org\superbiz\model\RootUserWrapper.class
+org\superbiz\JAXRSApplication.class
+org\superbiz\JAXRSWebContext.class
+org\superbiz\JSONBConfiguration.class
+org\superbiz\model\User.class
